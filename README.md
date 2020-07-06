@@ -111,7 +111,7 @@ https://medium.com/@gourav.mittal/how-i-got-into-google-a7d92f581951
         - Neural networks and deep learning - Already Done
         - Hyper parameters and optimization - Already Done
         - Sequence models - July
-        - Structuring ML Projects - Aug
+        - Structuring ML Projects - Already Done
         - CNN - Aug
       
       - HCI course - hcicourse.com - Oct
